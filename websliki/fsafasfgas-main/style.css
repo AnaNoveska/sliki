@@ -1,0 +1,88 @@
+body{
+    background: whitesmoke;
+}
+.container{
+    
+    width: 1660px;
+}
+.naslov{
+    display: flex;
+    justify-content: center;
+}
+.slika1{
+    width: 300px;
+    height: 400px;
+    margin-top: -10px;
+    margin-left: 680px;
+}
+.h1{
+    margin-left: 750px;
+    margin-top: 5px;
+}
+.div1{
+    height: 400px;
+    width: 1660px;
+    
+}
+.slika2{
+    width: 300px;
+    height: 400px;
+    margin-left: 400px;
+}
+.slika3{
+    width: 300px;
+    height: 400px;
+    margin-left: 250px;
+    margin-top: -600px;
+}
+.h2{
+    margin-left: 450px;
+}
+.h3{
+    margin-left: 940px;
+    margin-top: -50px;
+}
+.slika4{
+    width: 300px;
+    height: 400px;
+    padding-right: 25px;
+    padding-left: 20px;
+}
+.slika5{
+    width: 300px;
+    height: 400px;
+    padding-right: 25px;
+}
+.slika6{
+    width: 300px;
+    height: 400px;
+    padding-right: 25px;
+}
+.slika7{
+    width: 300px;
+    height: 400px;
+    padding-right: 25px;
+}
+.slika8{
+    width: 300px;
+    height: 400px;
+}
+.h4{
+    margin-left: 70px;
+}
+.h5{
+    margin-top: -50px;
+    margin-left: 360px;
+}
+.h6{
+    margin-top: -50px;
+    margin-left: 750px;
+}
+.h7{
+    margin-top: -50px;
+    margin-left: 1050px;
+}
+.h8{
+    margin-top: -50px;
+    margin-left: 1390px;
+}
